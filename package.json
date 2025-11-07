@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@ai-sdk/react": "^2.0.24",
+    "@ai-sdk/react": "^2.0.89",
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "1.2.2",
     "@radix-ui/react-alert-dialog": "1.1.4",
@@ -42,7 +42,7 @@
     "@react-three/drei": "^10.7.4",
     "@react-three/fiber": "^9.3.0",
     "@types/three": "^0.179.0",
-    "ai": "^5.0.24",
+    "ai": "^5.0.89",
     "autoprefixer": "^10.4.20",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
@@ -59,7 +59,7 @@
     "react-dom": "^19",
     "react-hook-form": "^7.60.0",
     "react-resizable-panels": "^2.1.7",
-    "react-syntax-highlighter": "^15.6.6",
+    "react-syntax-highlighter": "^16.1.0",
     "recharts": "2.15.4",
     "sonner": "^1.7.4",
     "streamdown": "^1.1.3",
